@@ -6,7 +6,7 @@
 <body>
 
 <p align="center">
-  <img src="chatgpt.png" width="400", title="Credit goes to ChatGPT">
+  <img src="chatgpt.png" width="700", title="Credit goes to ChatGPT">
 </p>
 
 
